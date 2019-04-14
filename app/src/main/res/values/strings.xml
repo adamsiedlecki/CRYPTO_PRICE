@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CRYPTO_PRICE</string>
+    <string name="btcLabel">BITCOIN PRICE:</string>
+    <string name="ethLabel">ETHEREUM PRICE:</string>
+    <string name="xmrLabel">MONERO PRICE:</string>
+    <string name="sourceLabel">DATA SOURCE: BITBAY.NET</string>
+    <string name="authorLabel">CRYPTO_PRICE creator: adamsiedlecky </string>
+    <string name="action_settings">Settings</string>
+</resources>
